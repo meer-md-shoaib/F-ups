@@ -7,21 +7,6 @@
 
 ---
 
-## 👥 The Team
-
-| Avatar | Name | 
-|:---:|---|
-| 🧠 | **Meer Mohammed Shoaib** |
-| ⚙️ | **Mohammed Maaz** |
-| 🔎 | **Sadiya Bareera** |
-| 🎨 | **Prithvi S** |
-| 🗃️ | **Rabiya Kauser** |
-| 🛡️ | **Nabiya Banu** |
-
-> Roles below assume **4 core builders** driving hands-on development and **2 supporting members** owning data/QA/presentation — every single person has a real, necessary job. Swap names freely if skillsets differ; what matters is that every workstream below has an owner.
-
----
-
 ## 🎯 What NetSentry Does (one breath)
 
 NetSentry ingests scattered, disconnected police data — FIRs, call detail records (CDRs), financial transactions, surveillance logs, social media intel — and automatically builds a **connection graph** showing who is linked to whom, flags the most central/suspicious people in that network, and explains *why* each flag was raised. What used to take an investigator weeks of manual cross-referencing happens in minutes.
